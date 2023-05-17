@@ -1,0 +1,5 @@
+cP 1
+Nome: Pizza Calabresa - P
+TempoMax: 30
+Ativo: 0
+Preco: R$ 18.0
